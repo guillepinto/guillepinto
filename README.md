@@ -8,14 +8,10 @@
 
 <h2 align="center">🚀 Languages and Stats</h2>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <a href="https://github.com/gpintoruiz">
-        <img height=200 src="https://github-readme-stats.vercel.app/api?username=gpintoruiz&show_icons=true&theme=dark&hide=issues" />
-    </a>
-    <a href="https://github.com/gpintoruiz">
-        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=gpintoruiz&layout=compact&langs_count=8&card_width=320&theme=dark" />
-    </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gpintoruiz&show_icons=true&theme=dark&hide=issues&hide_border=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gpintoruiz&layout=compact&langs_count=8&card_width=320&theme=dark&hide_border=true" height="200"/>
+</p>
 
 ---
 
