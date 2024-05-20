@@ -8,14 +8,20 @@
 
 <h2 align="center">🚀 Languages and Stats</h2>
 
-<div align="center">
-    <a href="https://github.com/gpintoruiz">
-      <img src="https://github-readme-stats.vercel.app/api?username=gpintoruiz&show_icons=true&theme=dark&hide=issues&hide_border=true" height="200"/>
-    </a>
-    <a href="https://github.com/gpintoruiz">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gpintoruiz&layout=compact&langs_count=8&card_width=320&theme=dark&hide_border=true" height="200" width="350"/>
-    </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/gpintoruiz">
+        <img height=200 src="https://github-readme-stats.vercel.app/api?username=gpintoruiz&show_icons=true&hide_border=true&theme=dark&hide=issues" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/gpintoruiz">
+        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=gpintoruiz&layout=compact&langs_count=8&hide_border=true&card_width=320&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
