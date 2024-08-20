@@ -12,12 +12,12 @@
   <tr>
     <td>
       <a href="https://github.com/guillepinto">
-        <img height=200 src="https://github-readme-stats.vercel.app/api?username=gpintoruiz&show_icons=true&hide_border=true&theme=dark&hide=issues" />
+        <img height=200 src="https://github-readme-stats.vercel.app/api?username=guillepinto&show_icons=true&hide_border=true&theme=dark&hide=issues" />
       </a>
     </td>
     <td>
       <a href="https://github.com/guillepinto">
-        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=gpintoruiz&layout=compact&langs_count=8&hide_border=true&card_width=320&theme=dark" />
+        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=guillepinto&layout=compact&langs_count=8&hide_border=true&card_width=320&theme=dark" />
       </a>
     </td>
   </tr>
