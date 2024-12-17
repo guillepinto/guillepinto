@@ -4,7 +4,12 @@
 
 <h1 align="center">Hi, I'm Guillermo Pinto Ruiz! 👋</h1>
 
-<p align="center">I am a Systems Engineering student at Universidad Industrial de Santander, passionate about artificial intelligence and its application in solving real-world problems. With a particular focus on computer vision and the development of artificial intelligence models, I strive to create innovative solutions that can have a positive impact on people's lives.</p>
+<p align="center">
+🌟 I'm a Systems Engineering student at Universidad Industrial de Santander with a strong focus on deep learning and computer vision.  
+🚀 My expertise lies in Python, PyTorch, and contributing to and maintaining some repositories.  
+🔍 You'll find projects ranging from deep learning models for real-world problems to software development experiments.  
+🛠️ Let's innovate, code, and solve together!
+</p>
 
 <h2 align="center">🚀 Languages and Stats</h2>
 
