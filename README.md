@@ -6,7 +6,7 @@
 
 <p align="center">
 🌟 I'm a Systems Engineering student at Universidad Industrial de Santander with a strong focus on deep learning and computer vision.  
-🚀 My expertise lies in Python, PyTorch, and contributing to and maintaining some repositories.  
+🧑‍💻 My expertise lies in Python, PyTorch, and contributing to and maintaining some repositories.  
 🔍 You'll find projects ranging from deep learning models for real-world problems to software development experiments.  
 🛠️ Let's innovate, code, and solve together!
 </p>
