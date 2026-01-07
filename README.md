@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/gpintoruiz/gpintoruiz/main/varian_wrynn.gif" alt="Varian Wrynn"/>
 </p>
 
-<h1 align="center">Hi, I'm Guillermo Pinto! 👋</h1>
+<h1 align="center">Hi, I'm Guillermo Pinto Ruiz! 👋</h1>
 
 <p align="center">
 🌟 I'm a Systems Engineering student at Universidad Industrial de Santander with a strong focus on deep learning and computer vision.  
