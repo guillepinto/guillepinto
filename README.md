@@ -4,12 +4,9 @@
 
 <h1 align="center">Hi, I'm Guille Pinto! 👋</h1>
 
-<p align="center">
-🌟 I'm a Systems Engineering student at Universidad Industrial de Santander with a strong focus on deep learning and computer vision.  
-🧑‍💻 My expertise lies in Python, PyTorch, and contributing to and maintaining some repositories.  
-🔍 You'll find projects ranging from deep learning models for real-world problems to software development experiments.  
-🛠️ Let's innovate, code, and solve together!
-</p>
+- 🌟 I'm a MSc student in Systems Engineering and Informatics at Universidad Industrial de Santander.  
+- 🧑‍💻 My research spans deep learning, computer vision, thermal imaging and 3D estimation.  
+- 🔍 You'll find projects ranging from deep learning models for real-world problems to software development experiments.  
 
 ---
 
