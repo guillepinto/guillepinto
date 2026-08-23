@@ -11,23 +11,6 @@
 🛠️ Let's innovate, code, and solve together!
 </p>
 
-<h2 align="center">🚀 Languages and Stats</h2>
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/guillepinto">
-        <img height=200 src="https://github-readme-stats-green-three-14.vercel.app/api?username=guillepinto&show_icons=true&hide_border=true&theme=dark&hide=issues" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/guillepinto">
-        <img height=200 src="https://github-readme-stats-green-three-14.vercel.app/api/top-langs?username=guillepinto&layout=compact&langs_count=8&hide_border=true&card_width=320&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 ---
 
 <p align="center">"Sometimes the person no one imagines capable of anything is the person who does things no one imagines." - Alan Turing</p>
